@@ -1,4 +1,4 @@
-package observer;
+package Observer.Flipkart;
 
 public class EmailService implements OnOrderPlacedSubscriber {
 

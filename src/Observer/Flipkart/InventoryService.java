@@ -1,4 +1,4 @@
-package observer;
+package Observer.Flipkart;
 
 public class InventoryService implements OnOrderPlacedSubscriber {
     InventoryService() {
